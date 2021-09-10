@@ -1,7 +1,3 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/java,intellij,macos,windows,git,eclipse
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij,macos,windows,git,eclipse
-
 ### Eclipse ###
 .metadata
 bin/
